@@ -1,4 +1,4 @@
-baseURL = 'https://viewweiv.github.io/personal_website/public/'
+baseURL = 'https://viewweiv.github.io/ananke/public/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
